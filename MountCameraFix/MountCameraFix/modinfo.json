@@ -1,0 +1,13 @@
+{
+    "type": "code",
+    "modid": "mountcamerafix",
+    "name": "MountCameraFix",
+    "authors": [
+        "Rhino1998"
+    ],
+    "description": "Fixes mount camera resets",
+    "version": "0.1.0",
+    "dependencies": {
+        "game": ""
+    }
+}

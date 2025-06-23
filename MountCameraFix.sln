@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CakeBuild", "MountCameraFix\CakeBuild\CakeBuild.csproj", "{5C9F3444-130B-45C8-B2CB-C7A0C9A6C898}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MountCameraFix", "MountCameraFix\MountCameraFix\MountCameraFix.csproj", "{AA60C5EC-C955-4761-AE93-CA5F8302A811}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C9F3444-130B-45C8-B2CB-C7A0C9A6C898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C9F3444-130B-45C8-B2CB-C7A0C9A6C898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C9F3444-130B-45C8-B2CB-C7A0C9A6C898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C9F3444-130B-45C8-B2CB-C7A0C9A6C898}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA60C5EC-C955-4761-AE93-CA5F8302A811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA60C5EC-C955-4761-AE93-CA5F8302A811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA60C5EC-C955-4761-AE93-CA5F8302A811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA60C5EC-C955-4761-AE93-CA5F8302A811}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {992CE6C6-E9CA-4F9F-948F-BDA29C99D915}
+	EndGlobalSection
+EndGlobal
